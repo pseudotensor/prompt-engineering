@@ -48,6 +48,7 @@ Or chess-like 2D board:
 * List of board positions with X, O, and empty spaces
 * Map of board positions to X, O, and numbers
 * Verbalized map, saying for each line if filled or unfilled
+* GPT-4 Vision, providing visual board and asking it to play next move (either as X or O) e.g. from https://papergames.io/en/r/TH1GFs3sH.  Also separately, telling it to play optimally and it will win $200 dollars if it beats me.  Still fails miserably.
 
 Prompt engineering likely affects game play:
 * Rules or not (no effect)
