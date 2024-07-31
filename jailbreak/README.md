@@ -59,3 +59,7 @@ However, if asking for balanced negative thoughts, prompting in a reasonable way
 Lastly, putting this together, we have a reliable way to jailbreak the safety of Claude-3, and likely other LLMs, by using OpenAI's explicit instruction-following, many-shot jailbreaking, and DAN mode to get Claude-3 to produce negative thoughts, which can be parsed out and used as a response.
 
 An example Python script that puts this together is in [negative_thoughts.ipynb](negative_thoughts.ipynb). Use with extreme caution. Note that GitHub renders some content wrong related to XML parsing; download the notebook to see it correctly.
+
+## Other Resources
+
+https://github.com/elder-plinius/L1B3RT45
