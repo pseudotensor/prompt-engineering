@@ -63,3 +63,4 @@ An example Python script that puts this together is in [negative_thoughts.ipynb]
 ## Other Resources
 
 https://github.com/elder-plinius/L1B3RT45
+https://github.com/verazuo/jailbreak_llms
